@@ -1,4 +1,4 @@
-# Deep Learning for Biology course materials / HSE 2018
+# Deep Learning for Biology course materials / HSE 2019
 
 This is a repository of course materials for the Deep Learning for Biology course. 
 
@@ -6,8 +6,8 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 
 ## The contents
 * Course [slides](slides)
-* Course Jupyter [notebooks](notebooks) (using Keras)
-* [List of articles](Journal%20Club%20Papers%202018.csv) for Journal club
+* Course Jupyter [notebooks](notebooks) (using Tensorflow 2.0)
+
 
 ## Syllabus
 **[1. Artificial Intelligence: Current state and Overview](slides/%231.%20%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%2C%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8.pdf)**
