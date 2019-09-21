@@ -1,4 +1,4 @@
-# Deep Learning for Biology course materials / HSE 2018
+# Deep Learning for Biology course materials / HSE 2019
 
 This is a repository of course materials for the Deep Learning for Biology course. 
 
@@ -6,8 +6,8 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 
 ## The contents
 * Course [slides](slides)
-* Course Jupyter [notebooks](notebooks) (using Keras)
-* [List of articles](Journal%20Club%20Papers%202018.csv) for Journal club
+* Course Jupyter [notebooks](notebooks) (using Tensorflow 2.0)
+
 
 ## Syllabus
 **[1. Artificial Intelligence: Current state and Overview](slides/%231.%20%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%2C%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8.pdf)**
@@ -25,13 +25,19 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - Evolutionary computations and Swarm intelligence
 - Hardware
 
+Video:
+- [part 1](https://www.youtube.com/watch?v=4lJ_JX_ig_Y)
+- [part 2](https://www.youtube.com/watch?v=78-eNtdGd28)
+- [part 3](https://www.youtube.com/watch?v=h3___u1rEwo)
+
 **[2. Introduction to Neural Networks](slides/%232.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8.pdf)**
 - Intro into NN: neuron, neural network, backpropagation, 
 - Feed-forward NNs (FNN)
 - Autoencoders (AE)
 
 **[3. Keras practice](slides/%233.%20%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20-%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Keras%20-%20FFN%2C%20AE.pdf)**
-- [Notebook: Keras Intro (FFN: Binary classification, Multi-class classification, Regression)](notebooks/keras_nn_intro.ipynb)
+- [Notebook: Keras Intro (FFN: Binary classification, Multi-class classification, Regression)](notebooks/tf2_nn_intro.ipynb)
+  - [Colab version](https://colab.research.google.com/drive/1YVrUhphhL_CoTY-aNCJGJLlXmeJW_d62)
 - [Notebook: Autoencoders](notebooks/keras_autoencoders.ipynb)
 - [Notebook: Variational autoencoder](notebooks/keras_vae.ipynb)
 
