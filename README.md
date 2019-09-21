@@ -36,9 +36,10 @@ Video:
 - Autoencoders (AE)
 
 **[3. Keras practice](slides/%233.%20%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20-%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Keras%20-%20FFN%2C%20AE.pdf)**
-- [Notebook: Keras Intro (FFN: Binary classification, Multi-class classification, Regression)](notebooks/tf2_nn_intro.ipynb)
+- [Notebook: Keras Intro (FFN: Binary classification, Multi-class classification, Regression)](notebooks/1%20-%20tf2_nn_intro.ipynb)
   - [Colab version](https://colab.research.google.com/drive/1YVrUhphhL_CoTY-aNCJGJLlXmeJW_d62)
-- [Notebook: Autoencoders](notebooks/keras_autoencoders.ipynb)
+- [Notebook: Autoencoders](notebooks/2%20-%20tf2_autoencoders.ipynb)
+  - [Colab version](https://colab.research.google.com/drive/1sWx65xJJTP_xg2HnbwVjKj3YdNSXYQRy)
 - [Notebook: Variational autoencoder](notebooks/keras_vae.ipynb)
 
 **[4. Convolutional NNs (CNN) and Image processing](slides/%234.%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%B0%D1%8F%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.pdf)**
