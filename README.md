@@ -55,8 +55,7 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 
 
 ### (01/10/2019) **[4. Convolutional NNs (CNN) and Image processing](slides/%234.%20Convolutional%20Neural%20Networks%20(CNNs).pdf)**
-- DL for computer vision cases
-- CNNs
+- What is CNN
 - CNN for classification, CNN autoencoders, Saving and Loading models, How to use pretrained models in Tensorflow
   - [Jupyter notebook](notebooks/4%20-%20tf2_cnn.ipynb)
   - [Colab notebook](https://colab.research.google.com/drive/1vu-ZUHCVzPnvhohcPsPD96p4K5VcAVke)
