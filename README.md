@@ -48,18 +48,22 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - Autoencoders (shallow, deep, regularized/sparse, denoising)
   - [Jupyter notebook](notebooks/2%20-%20tf2_autoencoders.ipynb)
   - [Colab notebook](https://colab.research.google.com/drive/1sWx65xJJTP_xg2HnbwVjKj3YdNSXYQRy)
-- Variational autoencoder
-  - [Jupyter notebook](notebooks/3%20-%20tf2_vae.ipynb)
-  - [Colab notebook](https://colab.research.google.com/drive/1rgUVgs7YnluhwaNDfDb6vGjXElb5QXn8)
+
+**Video**:
+- [part 1](https://www.youtube.com/watch?v=AkTG7U2Wsxs)
+- [part 2](https://www.youtube.com/watch?v=1v9OtgmrakM)
 
 
 ### (01/10/2019) **[4. Convolutional NNs (CNN) and Image processing](slides/%234.%20Convolutional%20Neural%20Networks%20(CNNs).pdf)**
 - DL for computer vision cases
 - CNNs
-- Tensorflow practice. CNN for classification, CNN autoencoders, How to use pretrained models in Keras
+- CNN for classification, CNN autoencoders, Saving and Loading models, How to use pretrained models in Tensorflow
   - [Jupyter notebook](notebooks/4%20-%20tf2_cnn.ipynb)
   - [Colab notebook](https://colab.research.google.com/drive/1vu-ZUHCVzPnvhohcPsPD96p4K5VcAVke)
-
+- Variational autoencoder
+  - [Jupyter notebook](notebooks/3%20-%20tf2_vae.ipynb)
+  - [Colab notebook](https://colab.research.google.com/drive/1rgUVgs7YnluhwaNDfDb6vGjXElb5QXn8)
+  
 # *--- NOT YET READY ---*
 
 - Keras practice. [Notebook: Visualizing CNNs: Saliency maps, grad-CAM, FCNs](notebooks/keras_cnn.ipynb)
