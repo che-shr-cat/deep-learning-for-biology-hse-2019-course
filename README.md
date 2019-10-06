@@ -60,24 +60,27 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - CNN for classification, CNN autoencoders, Saving and Loading models, How to use pretrained models in Tensorflow
   - [Jupyter notebook](notebooks/4%20-%20tf2_cnn.ipynb)
   - [Colab notebook](https://colab.research.google.com/drive/1vu-ZUHCVzPnvhohcPsPD96p4K5VcAVke)
-- Variational autoencoder
-  - [Jupyter notebook](notebooks/3%20-%20tf2_vae.ipynb)
-  - [Colab notebook](https://colab.research.google.com/drive/1rgUVgs7YnluhwaNDfDb6vGjXElb5QXn8)
   
 **Video**:
 - [part 1](https://youtu.be/hQzEa7spT2Q)
 - other parts are missing :(
 
+
+### (08/10/2019) **[5-6. Real-life modern CNNs](slides/%235-6.%20%D0%9A%D0%B0%D0%BA%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D1%8B%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8.pdf)**
+- Activations, Regularization, Augmentation, Optimization etc
+- Models: LeNet, AlexNet, VGG, GoogLeNet, Inception, ResNet, DenseNet, XCeption, NASNet
+- How to use pretrained models in Tensorflow
+  - [Jupyter notebook](notebooks/4%20-%20tf2_cnn.ipynb)
+  - [Colab notebook](https://colab.research.google.com/drive/1vu-ZUHCVzPnvhohcPsPD96p4K5VcAVke)  
+- Variational autoencoder
+  - [Jupyter notebook](notebooks/3%20-%20tf2_vae.ipynb)
+  - [Colab notebook](https://colab.research.google.com/drive/1rgUVgs7YnluhwaNDfDb6vGjXElb5QXn8)
+  
   
 # *--- NOT YET READY ---*
 
 - Keras practice. [Notebook: Visualizing CNNs: Saliency maps, grad-CAM, FCNs](notebooks/keras_cnn.ipynb)
 - Keras practice. [Notebook: Playing with autoencoders](notebooks/playing_with_autoencoders.ipynb)
-
-**[5-6. Real-life modern CNNs](slides/%235-6.%20%D0%9A%D0%B0%D0%BA%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D1%8B%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8.pdf)**
-- Activations, Regularization, Augmentation, etc
-- Models: LeNet, AlexNet, VGG, GoogLeNet, Inception, ResNet, DenseNet, XCeption
-- How to use pretrained models in Keras. [Notebook: using pretrained CNN models](notebooks/keras_cnn.ipynb)
 
 **[7. Transfer Learning](slides/%237.%20Transfer%20Learning.pdf)**
 - Theory
