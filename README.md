@@ -52,7 +52,7 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 **Video**:
 - [part 1](https://www.youtube.com/watch?v=AkTG7U2Wsxs)
 - [part 2](https://www.youtube.com/watch?v=1v9OtgmrakM)
-- [alternative recording](soon)
+- [alternative recording](https://youtu.be/32O0rQth0WE)
 
 
 ### (01/10/2019) **[4. Convolutional NNs (CNN) and Image processing](slides/%234.%20Convolutional%20Neural%20Networks%20(CNNs).pdf)**
