@@ -62,7 +62,7 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
   - [Colab notebook](https://colab.research.google.com/drive/1vu-ZUHCVzPnvhohcPsPD96p4K5VcAVke)
   
 **Video**:
-- [part 1](https://youtu.be/hQzEa7spT2Q)
+- [part 1](https://youtu.be/6mgm2sDoHIQ)
 - other parts are missing :(
 
 
