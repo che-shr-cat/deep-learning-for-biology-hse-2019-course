@@ -52,6 +52,7 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 **Video**:
 - [part 1](https://www.youtube.com/watch?v=AkTG7U2Wsxs)
 - [part 2](https://www.youtube.com/watch?v=1v9OtgmrakM)
+- [alternative recording](soon)
 
 
 ### (01/10/2019) **[4. Convolutional NNs (CNN) and Image processing](slides/%234.%20Convolutional%20Neural%20Networks%20(CNNs).pdf)**
@@ -62,6 +63,11 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - Variational autoencoder
   - [Jupyter notebook](notebooks/3%20-%20tf2_vae.ipynb)
   - [Colab notebook](https://colab.research.google.com/drive/1rgUVgs7YnluhwaNDfDb6vGjXElb5QXn8)
+  
+**Video**:
+- [part 1](https://youtu.be/hQzEa7spT2Q)
+- other parts are missing :(
+
   
 # *--- NOT YET READY ---*
 
