@@ -66,7 +66,7 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - other parts are missing :(
 
 
-### (08/10/2019) **[5. Real-life modern CNNs](slides/%235-6.%20%D0%9A%D0%B0%D0%BA%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D1%8B%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8.pdf)**
+### (08/10/2019) **[5. Real-life modern CNNs](slides/%235.%20%D0%9A%D0%B0%D0%BA%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D1%8B%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8.pdf)**
 - Activations, Regularization, Augmentation, Optimization etc
 - Models: LeNet, AlexNet, VGG, GoogLeNet, Inception, ResNet, DenseNet, XCeption, NASNet
   
@@ -85,12 +85,28 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - [video](https://www.youtube.com/watch?v=Ze1QUAeYz-k)
 
 
-### (05/11/2019) **[6. Guest Lecture: Artur Kadurin, GANs](slides/%235-6.%20%D0%9A%D0%B0%D0%BA%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D1%8B%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8.pdf)**
-- Activations, Regularization, Augmentation, Optimization etc
-- Models: LeNet, AlexNet, VGG, GoogLeNet, Inception, ResNet, DenseNet, XCeption, NASNet
+### (05/11/2019) **[6. Guest Lecture: Artur Kadurin, GANs](slides/%236.%20Artur_Kadurin%20-%20GANs.pdf)**
+- GANs
   
 **Video**:
 - [video](https://youtu.be/K7qIkl0eJPM)
+
+
+### (12/11/2019) **[7. Transfer Learning](slides/%237.%20Transfer%20Learning.pdf)**
+- Theory of Transfer Learning
+- How to use pretrained models in Tensorflow
+  - [Colab notebook using Keras](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb)  
+  - [Colab notebook using TFHub](https://www.tensorflow.org/tutorials/images/transfer_learning_with_hub)  
+  
+
+### (12/11/2019) **[8. Advanced CNNs](slides/%238.%20%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B5%20%D1%81%D0%B2%D1%91%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8.pdf)**
+- 1D, 3D, dilated convolutions
+- Detection: R-CNN, Fast R-CNN, Faster R-CNN, YOLO
+- Fully-convolutional CNNs (FCNs)
+- Deconvolutional networks (Transposed convolution)
+- Generative Adversarial Networks (GANs)
+- Style Transfer
+
 
 # *--- NOT YET READY ---*
 - Variational autoencoder
@@ -98,21 +114,6 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
   - [Colab notebook](https://colab.research.google.com/drive/1rgUVgs7YnluhwaNDfDb6vGjXElb5QXn8)
 - Keras practice. [Notebook: Visualizing CNNs: Saliency maps, grad-CAM, FCNs](notebooks/keras_cnn.ipynb)
 - Keras practice. [Notebook: Playing with autoencoders](notebooks/playing_with_autoencoders.ipynb)
-
-**[7. Transfer Learning](slides/%237.%20Transfer%20Learning.pdf)**
-- Theory of Transfer Learning
-- How to use pretrained models in Tensorflow
-  - [Jupyter notebook](notebooks/4%20-%20tf2_cnn.ipynb)
-  - [Colab notebook](https://colab.research.google.com/drive/1vu-ZUHCVzPnvhohcPsPD96p4K5VcAVke)  
-- Keras practice. [Notebook: Transfer learning using VGG](notebooks/keras_cnn_transfer_learning.ipynb)
-
-**[8. Advanced CNNs](slides/%238.%20%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B5%20%D1%81%D0%B2%D1%91%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8.pdf)**
-- 1D, 3D, dilated convolutions
-- Detection: R-CNN, Fast R-CNN, Faster R-CNN, YOLO
-- Fully-convolutional CNNs (FCNs)
-- Deconvolutional networks (Transposed convolution)
-- Generative Adversarial Networks (GANs)
-- Style Transfer
 - [Notebook: FCN example, classification using only convolutions](notebooks/keras_cnn.ipynb)
 
 **[9. Recurrent NNs (RNNs)](slides/%239.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D0%B5%D1%82%D0%B5%D0%B9.pdf)**
