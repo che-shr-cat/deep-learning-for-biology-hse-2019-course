@@ -66,7 +66,7 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - other parts are missing :(
 
 
-### (08/10/2019) **[5. Real-life modern CNNs](slides/%235-6.%20%D0%9A%D0%B0%D0%BA%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D1%8B%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8.pdf)**
+### (08/10/2019) **[5. Real-life modern CNNs](slides/%235.%20%D0%9A%D0%B0%D0%BA%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D1%8B%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8.pdf)**
 - Activations, Regularization, Augmentation, Optimization etc
 - Models: LeNet, AlexNet, VGG, GoogLeNet, Inception, ResNet, DenseNet, XCeption, NASNet
   
@@ -85,9 +85,8 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - [video](https://www.youtube.com/watch?v=Ze1QUAeYz-k)
 
 
-### (05/11/2019) **[6. Guest Lecture: Artur Kadurin, GANs](slides/%235-6.%20%D0%9A%D0%B0%D0%BA%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D1%8B%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8.pdf)**
-- Activations, Regularization, Augmentation, Optimization etc
-- Models: LeNet, AlexNet, VGG, GoogLeNet, Inception, ResNet, DenseNet, XCeption, NASNet
+### (05/11/2019) **[6. Guest Lecture: Artur Kadurin, GANs](slides/%236.%20Artur_Kadurin%20-%20GANs.pdf)**
+- GANs
   
 **Video**:
 - [video](https://youtu.be/K7qIkl0eJPM)
