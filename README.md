@@ -91,27 +91,29 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 **Video**:
 - [video](https://youtu.be/K7qIkl0eJPM)
 
-# *--- NOT YET READY ---*
-- Variational autoencoder
-  - [Jupyter notebook](notebooks/3%20-%20tf2_vae.ipynb)
-  - [Colab notebook](https://colab.research.google.com/drive/1rgUVgs7YnluhwaNDfDb6vGjXElb5QXn8)
-- Keras practice. [Notebook: Visualizing CNNs: Saliency maps, grad-CAM, FCNs](notebooks/keras_cnn.ipynb)
-- Keras practice. [Notebook: Playing with autoencoders](notebooks/playing_with_autoencoders.ipynb)
 
-**[7. Transfer Learning](slides/%237.%20Transfer%20Learning.pdf)**
+### (12/11/2019) **[7. Transfer Learning](slides/%237.%20Transfer%20Learning.pdf)**
 - Theory of Transfer Learning
 - How to use pretrained models in Tensorflow
-  - [Jupyter notebook](notebooks/4%20-%20tf2_cnn.ipynb)
-  - [Colab notebook](https://colab.research.google.com/drive/1vu-ZUHCVzPnvhohcPsPD96p4K5VcAVke)  
-- Keras practice. [Notebook: Transfer learning using VGG](notebooks/keras_cnn_transfer_learning.ipynb)
+  - [Colab notebook using Keras](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb)  
+  - [Colab notebook using TFHub](https://www.tensorflow.org/tutorials/images/transfer_learning_with_hub)  
+  
 
-**[8. Advanced CNNs](slides/%238.%20%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B5%20%D1%81%D0%B2%D1%91%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8.pdf)**
+### (12/11/2019) **[8. Advanced CNNs](slides/%238.%20%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B5%20%D1%81%D0%B2%D1%91%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8.pdf)**
 - 1D, 3D, dilated convolutions
 - Detection: R-CNN, Fast R-CNN, Faster R-CNN, YOLO
 - Fully-convolutional CNNs (FCNs)
 - Deconvolutional networks (Transposed convolution)
 - Generative Adversarial Networks (GANs)
 - Style Transfer
+
+
+# *--- NOT YET READY ---*
+- Variational autoencoder
+  - [Jupyter notebook](notebooks/3%20-%20tf2_vae.ipynb)
+  - [Colab notebook](https://colab.research.google.com/drive/1rgUVgs7YnluhwaNDfDb6vGjXElb5QXn8)
+- Keras practice. [Notebook: Visualizing CNNs: Saliency maps, grad-CAM, FCNs](notebooks/keras_cnn.ipynb)
+- Keras practice. [Notebook: Playing with autoencoders](notebooks/playing_with_autoencoders.ipynb)
 - [Notebook: FCN example, classification using only convolutions](notebooks/keras_cnn.ipynb)
 
 **[9. Recurrent NNs (RNNs)](slides/%239.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D0%B5%D1%82%D0%B5%D0%B9.pdf)**
