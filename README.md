@@ -137,8 +137,9 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - Long short-term memory (LSTM)
 - Advanced RNNs: Bidirectional RNNs, Multidimensional RNNs
 - Generating text using RNNs
-  - [Colab notebook using Keras](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_generation.ipynb)
-  
+  - [Colab notebook](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_generation.ipynb)
+- Time series forecasting
+  - [Colab notebook](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/structured_data/time_series.ipynb)
 
 # *--- NOT YET READY ---*
 - Variational autoencoder
