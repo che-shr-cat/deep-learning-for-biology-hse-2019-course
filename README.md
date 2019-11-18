@@ -130,6 +130,16 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - [video](https://youtu.be/jAhoqRv3UQw)
 
 
+### (19/11/2019)
+
+**[9. Recurrent NNs (RNNs)](slides/%239.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D0%B5%D1%82%D0%B5%D0%B9.pdf)**
+- RNN basics, Backpropagation through time
+- Long short-term memory (LSTM)
+- Advanced RNNs: Bidirectional RNNs, Multidimensional RNNs
+- Generating text using RNNs
+  - [Colab notebook using Keras](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_generation.ipynb)
+  
+
 # *--- NOT YET READY ---*
 - Variational autoencoder
   - [Jupyter notebook](notebooks/3%20-%20tf2_vae.ipynb)
@@ -138,10 +148,6 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - Keras practice. [Notebook: Playing with autoencoders](notebooks/playing_with_autoencoders.ipynb)
 - [Notebook: FCN example, classification using only convolutions](notebooks/keras_cnn.ipynb)
 
-**[9. Recurrent NNs (RNNs)](slides/%239.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D0%B5%D1%82%D0%B5%D0%B9.pdf)**
-- RNN basics, Backpropagation through time
-- Long short-term memory (LSTM)
-- Advanced RNNs: Bidirectional RNNs, Multidimensional RNNs
 
 **[10. Practice: Generating text using RNNs](slides/%2310.%20%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20-%20%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%20%D1%81%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E%20%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8.pdf)**
 - Keras example. [Notebook: Text generation](notebooks/keras_text_generation.ipynb)
