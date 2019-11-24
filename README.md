@@ -135,11 +135,25 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 **[9. Recurrent NNs (RNNs)](slides/%239.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D0%B5%D1%82%D0%B5%D0%B9.pdf)**
 - RNN basics, Backpropagation through time
 - Long short-term memory (LSTM)
-- Advanced RNNs: Bidirectional RNNs, Multidimensional RNNs
 - Generating text using RNNs
-  - [Colab notebook using Keras](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_generation.ipynb)
+  - [Colab notebook](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_generation.ipynb)
+- Time series forecasting
+  - [Colab notebook](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/structured_data/time_series.ipynb)
   
+**Video**:
+- [video](https://www.youtube.com/watch?v=9e-xekZsxx4)
 
+
+### (26/11/2019)
+
+**[10. Нейросетевая обработка текстов](slides/%239.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D0%B5%D1%82%D0%B5%D0%B9.pdf)**
+- Advanced RNNs: Bidirectional RNNs, Multidimensional RNNs
+- Tokenization, Vectorization of texts (word-level, char-level, BPE; one-hot, word embeddings)
+- Building text classifiers (RNN, Deep RNN, Bidirectional RNN, CNN, RNN+CNN)
+  - [Colab notebook](https://colab.research.google.com/drive/1uejcFOkuzzp97P-pwzICrWxrLJoTNpRv)
+
+  
+  
 # *--- NOT YET READY ---*
 - Variational autoencoder
   - [Jupyter notebook](notebooks/3%20-%20tf2_vae.ipynb)
