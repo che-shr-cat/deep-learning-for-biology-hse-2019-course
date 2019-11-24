@@ -146,10 +146,10 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 
 ### (26/11/2019)
 
-**[10. Нейросетевая обработка текстов](slides/%239.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D0%B5%D1%82%D0%B5%D0%B9.pdf)**
+**[10. Нейросетевая обработка текстов](slides/%2310.%20Нейросетевая%20обработка%20текстов.pdf)**
 - Advanced RNNs: Bidirectional RNNs, Multidimensional RNNs
-- Tokenization, Vectorization of texts (word-level, char-level, BPE; one-hot, word embeddings)
-- Building text classifiers (RNN, Deep RNN, Bidirectional RNN, CNN, RNN+CNN)
+- Working with texts: vectorizing, one-hot encoding, word embeddings, word2vec, BPE etc
+- Building text classifiers (LSTM, Deep LSTM, Bidirectional LSTM, 1D-CNN, CNN+LSTM)
   - [Colab notebook](https://colab.research.google.com/drive/1uejcFOkuzzp97P-pwzICrWxrLJoTNpRv)
 
   
@@ -163,17 +163,7 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - [Notebook: FCN example, classification using only convolutions](notebooks/keras_cnn.ipynb)
 
 
-**[10. Practice: Generating text using RNNs](slides/%2310.%20%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20-%20%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%20%D1%81%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E%20%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8.pdf)**
-- Keras example. [Notebook: Text generation](notebooks/keras_text_generation.ipynb)
-
-**[11. Practice: Text classification using RNNs](slides/%2311.%20%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20-%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2.pdf)**
-- Working with texts: vectorizing, one-hot encoding, word embeddings, word2vec etc
-- Keras example: sentence-based classification using RNN/LSTM/BLSTM
-- Keras example: sentence-based classification using 1D CNN
-- Keras example: sentence-based classification using RNN+CNN
-- [Notebook with examples](notebooks/keras_text_classification.ipynb)
-
-**[12. Sequence Learning (seq2seq)](slides/%2312.%20Sequence%20Learning.pdf)**
+**[11. Sequence Learning (seq2seq)](slides/%2312.%20Sequence%20Learning.pdf)**
 - Multimodal Learning
 - Seq2seq
 - Encoder-Decoder
@@ -183,5 +173,9 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - Connectionist Temporal Classification (CTC)
 - Non-RNN Sequence Learning, problems with RNNs
 - Convolutional Sequence Learning
+
+
+**[12. Transformers](slides/%2312.%20Sequence%20Learning.pdf)**
 - Self-Attention Neural Networks (SAN): Transformer Architecture
-- Transformer: The next steps (Image Transformer, BERT, Universal Transformer)
+- Transformer: The next steps (Image Transformer, Universal Transformer)
+- BERT, GPT-2, etc
