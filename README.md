@@ -146,7 +146,7 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 
 ### (26/11/2019)
 
-**[10. Working with texts using RNNs](slides/%2310.%20Нейросетевая%20обработка%20текстов.pdf)**
+**[10. Working with texts using RNNs](slides/%2310.%20Обработка%20текстов%20%20c%20помощью%20RNN.pdf)**
 - Advanced RNNs: Bidirectional RNNs, Multidimensional RNNs
 - Working with texts: vectorizing, one-hot encoding, word embeddings, word2vec, BPE etc
 - Building text classifiers (LSTM, Deep LSTM, Bidirectional LSTM, 1D-CNN, CNN+LSTM)
