@@ -152,8 +152,18 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - Building text classifiers (LSTM, Deep LSTM, Bidirectional LSTM, 1D-CNN, CNN+LSTM)
   - [Colab notebook](https://colab.research.google.com/drive/1uejcFOkuzzp97P-pwzICrWxrLJoTNpRv)
 
+**Video**:
+- [video](https://www.youtube.com/watch?v=vt7Dno4MPck)
   
   
+### (03/12/2019)
+
+**Journal Club #3**
+
+**Video**:
+- to be soon
+
+
 # *--- NOT YET READY ---*
 - Variational autoencoder
   - [Jupyter notebook](notebooks/3%20-%20tf2_vae.ipynb)
