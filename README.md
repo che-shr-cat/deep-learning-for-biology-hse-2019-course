@@ -146,22 +146,25 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 
 ### (26/11/2019)
 
-**[10. Working with texts using RNNs](slides/%2310.%20Нейросетевая%20обработка%20текстов.pdf)**
+**[10. Working with texts using RNNs](slides/%2310.%20Обработка%20текстов%20%20c%20помощью%20RNN.pdf)**
 - Advanced RNNs: Bidirectional RNNs, Multidimensional RNNs
 - Working with texts: vectorizing, one-hot encoding, word embeddings, word2vec, BPE etc
 - Building text classifiers (LSTM, Deep LSTM, Bidirectional LSTM, 1D-CNN, CNN+LSTM)
   - [Colab notebook](https://colab.research.google.com/drive/1uejcFOkuzzp97P-pwzICrWxrLJoTNpRv)
 
+**Video**:
+- [video](https://www.youtube.com/watch?v=vt7Dno4MPck)
   
   
-# *--- NOT YET READY ---*
-- Variational autoencoder
-  - [Jupyter notebook](notebooks/3%20-%20tf2_vae.ipynb)
-  - [Colab notebook](https://colab.research.google.com/drive/1rgUVgs7YnluhwaNDfDb6vGjXElb5QXn8)
-- Keras practice. [Notebook: Visualizing CNNs: Saliency maps, grad-CAM, FCNs](notebooks/keras_cnn.ipynb)
-- Keras practice. [Notebook: Playing with autoencoders](notebooks/playing_with_autoencoders.ipynb)
-- [Notebook: FCN example, classification using only convolutions](notebooks/keras_cnn.ipynb)
+### (03/12/2019)
 
+**Journal Club #3**
+
+**Video**:
+- [video](https://youtu.be/9p3BtTfMyow) 
+
+
+### (10/12/2019)
 
 **[11. Sequence Learning (seq2seq)](slides/%2312.%20Sequence%20Learning.pdf)**
 - Multimodal Learning
@@ -175,7 +178,18 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - Convolutional Sequence Learning
 
 
+### (17/12/2019)
+
 **[12. Transformers](slides/%2312.%20Sequence%20Learning.pdf)**
 - Self-Attention Neural Networks (SAN): Transformer Architecture
-- Transformer: The next steps (Image Transformer, Universal Transformer)
-- BERT, GPT-2, etc
+- Transformer: The next steps (Image Transformer, Universal Transformer, Transformer-XL)
+- BERT & Co (RoBERTa, XLNet, ALBERT, etc), GPT-2, etc
+
+# *--- NOT YET READY ---*
+- Variational autoencoder
+  - [Jupyter notebook](notebooks/3%20-%20tf2_vae.ipynb)
+  - [Colab notebook](https://colab.research.google.com/drive/1rgUVgs7YnluhwaNDfDb6vGjXElb5QXn8)
+- Keras practice. [Notebook: Visualizing CNNs: Saliency maps, grad-CAM, FCNs](notebooks/keras_cnn.ipynb)
+- Keras practice. [Notebook: Playing with autoencoders](notebooks/playing_with_autoencoders.ipynb)
+- [Notebook: FCN example, classification using only convolutions](notebooks/keras_cnn.ipynb)
+
