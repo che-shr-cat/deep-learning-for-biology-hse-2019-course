@@ -125,6 +125,9 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 - Deconvolutional networks (Transposed convolution)
 - Generative Adversarial Networks (GANs)
 - Style Transfer
+- Variational autoencoder
+  - [Jupyter notebook](notebooks/3%20-%20tf2_vae.ipynb)
+  - [Colab notebook](https://colab.research.google.com/drive/1rgUVgs7YnluhwaNDfDb6vGjXElb5QXn8)
 
 **Video**:
 - [video](https://youtu.be/jAhoqRv3UQw)
@@ -166,7 +169,7 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 
 ### (10/12/2019)
 
-**[11. Sequence Learning (seq2seq)](slides/%2312.%20Sequence%20Learning.pdf)**
+**[11. Sequence Learning (seq2seq)](slides/%2311.%20Sequence%20Learning.pdf)**
 - Multimodal Learning
 - Seq2seq
 - Encoder-Decoder
@@ -180,15 +183,13 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 
 ### (17/12/2019)
 
-**[12. Transformers](slides/%2312.%20Sequence%20Learning.pdf)**
+**[12. Transformers](slides/%2312.%20Transformers.pdf)**
 - Self-Attention Neural Networks (SAN): Transformer Architecture
 - Transformer: The next steps (Image Transformer, Universal Transformer, Transformer-XL)
 - BERT & Co (RoBERTa, XLNet, ALBERT, etc), GPT-2, etc
+- [Colab notebook: transformers](https://colab.research.google.com/drive/19G8bJhnA58pCjQzEsagUHvMn1UgHq_Y3)
 
 # *--- NOT YET READY ---*
-- Variational autoencoder
-  - [Jupyter notebook](notebooks/3%20-%20tf2_vae.ipynb)
-  - [Colab notebook](https://colab.research.google.com/drive/1rgUVgs7YnluhwaNDfDb6vGjXElb5QXn8)
 - Keras practice. [Notebook: Visualizing CNNs: Saliency maps, grad-CAM, FCNs](notebooks/keras_cnn.ipynb)
 - Keras practice. [Notebook: Playing with autoencoders](notebooks/playing_with_autoencoders.ipynb)
 - [Notebook: FCN example, classification using only convolutions](notebooks/keras_cnn.ipynb)
