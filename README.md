@@ -183,13 +183,13 @@ The course is taught Fall 2019 at Higher School of Economics (Moscow), Faculty o
 
 ### (17/12/2019)
 
-**[12. Transformers](slides/%2312.%20Transformers.pdf)**
+**[12. Transformers](slides/%2312.%20Transformers.pdf)** [+pptx with two animations](slides/%2312.%20Transformers.pptx)
 - Self-Attention Neural Networks (SAN): Transformer Architecture
 - Transformer: The next steps (Image Transformer, Universal Transformer, Transformer-XL)
 - BERT & Co (RoBERTa, XLNet, ALBERT, etc), GPT-2, etc
 - [Colab notebook: transformers](https://colab.research.google.com/drive/19G8bJhnA58pCjQzEsagUHvMn1UgHq_Y3)
 
-# *--- NOT YET READY ---*
+# *--- Need to be updated for TF 2.0 and other libraries ---*
 - Keras practice. [Notebook: Visualizing CNNs: Saliency maps, grad-CAM, FCNs](notebooks/keras_cnn.ipynb)
 - Keras practice. [Notebook: Playing with autoencoders](notebooks/playing_with_autoencoders.ipynb)
 - [Notebook: FCN example, classification using only convolutions](notebooks/keras_cnn.ipynb)
